@@ -18,7 +18,7 @@ A free growth-decision system for businesses without a data team, built in Googl
 - Cohort retention, an AARRR scorecard and channel verdicts: scale, optimise or cut
 - Free public release under CC BY 4.0
 
-**[Make a copy of Golden Assets →](https://docs.google.com/spreadsheets/d/1Mv28xOvAX3e-04oSa87PNEUlUm5TMBN9RS-jvxd-TUg/copy)**
+**[Make a copy of Golden Assets →](https://docs.google.com/spreadsheets/d/11-2A87uPZr-QUbUQQxuYErQ721AnZ8fN/copy)**
 
 ---
 
