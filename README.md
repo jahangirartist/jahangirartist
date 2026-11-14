@@ -21,6 +21,17 @@ Both are built for Google Sheets, macro-free and released under CC BY 4.0, with 
 
 ---
 
+### Books
+
+| Book | For | Read |
+|---|---|---|
+| **100% Marketing Formula, 2nd edition (2027–2030)**<br>১০০% সফল ব্যবসার মার্কেটিং ফর্মুলা | Owners whose sales are up but profit is not: the numbers to check before the next campaign | [Free PDF, 64 pages](https://jahangirartist.framer.website/marketing-formula) |
+| **From Trust to Order**<br>আস্থা থেকে অর্ডার | Sales communication for SMEs: why imported sales playbooks backfire, and how trust turns into orders | [Free short edition](https://jahangirartist.framer.website/free-book) · [Full edition](https://jahangirartist.framer.website/articles/western-sales-tactics-bangladesh) |
+
+Both are written in Bangla for Bangladeshi business owners.
+
+---
+
 ### How the work runs
 
 1. **Define the job.** What the brand is actually being hired to do, in the customer's terms.
