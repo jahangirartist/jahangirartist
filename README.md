@@ -41,7 +41,7 @@ Both are written in Bangla for Bangladeshi business owners.
 ### Background
 
 - Brand and communications for a 31-year, ISO 9001:2015-certified security group operating across all 64 districts of Bangladesh.
-- Co-Founder of 3 Seconds Studio: positioning, identity and campaign work for small businesses since 2021.
+- Co-Founder of 3 Seconds Studio: positioning, identity and campaign work for small businesses from 2021 to 2024.
 - Five years of business-risk analysis for US clients before moving into brand.
 
 ### Credentials
