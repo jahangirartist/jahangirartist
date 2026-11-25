@@ -4,7 +4,7 @@
 
 Brand budgets rarely leak in the strategy deck. They leak at the handoffs: finance to brand, brand to production, production to the market. The work here closes those gaps with positioning and campaign systems, led and produced in-house, then measured in the numbers finance already uses.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jahangirartist.framer.website-00416B?style=flat-square&logo=framer&logoColor=white)](https://jahangirartist.framer.website/)
+[![Personal website](https://img.shields.io/badge/Personal_website-jahangirartist.framer.website-00416B?style=flat-square)](https://jahangirartist.framer.website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jahangir_Alam-00416B?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahangirartist/)
 [![Behance](https://img.shields.io/badge/Behance-jahangirartist-00416B?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/jahangirartist)
 
